@@ -4,7 +4,6 @@ import { PDF } from './PDF';
 import './App.css';
 
 function App() {
-  
   const doc = new jsPDF();
 
   const handleClick = () => {
